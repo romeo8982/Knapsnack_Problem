@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Knapsnack_Problem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Knapsnack_Problem_jar</output-path>
+    <root id="archive" name="Knapsnack_Problem.jar">
+      <element id="module-output" name="Knapsnack_Problem" />
+    </root>
+  </artifact>
+</component>
